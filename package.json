@@ -10,8 +10,5 @@
   },
   "devDependencies": {
     "nuxt": "^3.4.0"
-  },
-  "dependencies": {
-    "@pinia/nuxt": "^0.4.8"
   }
 }
